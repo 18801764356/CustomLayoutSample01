@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomLayoutSample01</string>
+    <string name="adjust_frame">外框调节</string>
+    <string name="width">宽度</string>
+    <string name="height">高度</string>
+    <string name="title_custom_circle_view">CurtomCircleView</string>
+</resources>
